@@ -1,0 +1,41 @@
+drop 
+levelu J drop
+ 
+4right drop
+L 3right drop
+ 
+7right drop Z
+levelu Z drop
+
+drop 
+I 6right drop
+ 
+2right drop 
+S 3right drop  
+ 
+2cw 5right drop
+O 6right drop
+
+cw 8right drop
+L cw 8right drop
+
+cw 10right drop
+force L
+ccw 9right drop
+
+blind
+I drop
+I drop
+
+I 4right drop
+I 4right drop
+
+I drop
+I drop
+
+I 4right drop
+I 4right drop
+
+L 2cw 8right drop
+force O
+9right drop

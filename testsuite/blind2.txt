@@ -1,0 +1,1 @@
+left drop 4right drop drop L 6right drop drop L ccw 8right drop I cw 10right drop blind drop

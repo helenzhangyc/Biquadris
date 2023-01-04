@@ -1,0 +1,1 @@
+drop blind right 2down down left cw right cw drop

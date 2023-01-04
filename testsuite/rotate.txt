@@ -1,0 +1,1 @@
+cw 3ri drop 2ri drop cw ccw ccw ccw 10down ccw 2right down cw cw

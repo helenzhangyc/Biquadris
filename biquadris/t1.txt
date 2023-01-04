@@ -1,0 +1,26 @@
+dr
+L
+11right 18down 10clock 2counter dr
+4ri dr
+20ri 1left 32counter 15down 1left dr
+7ri dr
+17down 123right
+I clock 20ri dr
+drop
+levelup 2right dr
+drop
+levelup 2right dr
+clock 3right 20down drop
+clock dr
+5right 15down 1000left drop
+5ri 2clock right drop
+clock 2ri drop
+Z clock 6right left dr
+counter 10ri 15down left dr
+0 9ri dr
+20ri drop
+3clock right dr
+9ri dr
+levelup hint 3right drop
+hint dr
+5levelup dr

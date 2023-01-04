@@ -1,0 +1,23 @@
+5levelup O dr
+O drop
+O 2ri dr
+O dr
+20ri dr
+O 2ri dr
+O 20ri 2left dr
+2ri dr
+O 6ri dr
+I clock 5ri dr
+S clock 4ri 20down clock counter dr
+O 6ri 10down dr
+dr
+6ri 10down dr
+dr
+clock 4ri dr
+3dr clock drop
+drop
+10ri dr
+10ri dr
+10ri dr
+1000ri dr
+I 8right clock 5down right 2down dr

@@ -1,0 +1,2 @@
+2ri 1dr Z Z 0down 3dow 2clock 3seq command2.txt 1drop counter 2counter
+rig 2dro

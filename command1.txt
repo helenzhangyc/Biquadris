@@ -1,0 +1,2 @@
+20ri 1drop Z Z 0down 3dow 2clock 3seq command2.txt 1drop counter 2counter
+ri 2dr
